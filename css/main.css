@@ -2614,3 +2614,14 @@ shortcodes page css
   display: inline-block;
   margin-left: 15px;
 }
+
+
+/***********************
+********* Payment ******
+************************/
+
+.container{
+  min-height: 100vh;
+  max-height: 100vh;
+  overflow-y: auto;
+}
